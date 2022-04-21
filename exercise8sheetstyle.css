@@ -1,0 +1,122 @@
+.name{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.email{
+    display: block;
+}
+.thankyou{
+    display: inline-block;
+    width: 220px;
+    vertical-align: middle;
+    font-family: Arial;
+    margin-right: 15px;
+}
+
+.logo{
+width: 200px;
+display: block;
+margin-top: 10px;
+margin-left: 100px;
+}
+
+.google{
+    border: none; 
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.15); 
+    border-radius: 6px;
+    margin-top: 10px;
+    padding: 5px 200px 5px 5px;
+}
+
+.signup-div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.firstname{
+    border-radius: 5px;
+    border-color: darkgrey;
+    padding: 5px 8px 5px 8px;
+    border-style: solid;
+    font-size: 16px;
+    width: 130px;
+}
+
+.secondname{
+    border-radius: 5px;
+    border-color: darkgrey;
+    padding: 5px 8px 5px 8px;
+    border-style: solid;
+    font-size: 16px;
+    width: 130px;
+}
+
+.email2{
+    display:block;
+    border-radius: 5px;
+    border-color: darkgrey;
+    padding: 5px 5px 5px 8px;
+    border-style: solid;
+    font-size: 16px;
+    width: 288px;
+    margin-top: 8px;
+}
+
+.signup{
+    font-size: 18px;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    padding: 10px 80px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 300px;
+}
+    
+.request-font{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: verdana;
+    
+}
+.pickup{
+   display: block; 
+   background-color: rgb(218, 213, 213);
+   color: black;
+   border: none;
+   width: 300px;
+   padding: 10px;
+   font-size: 12px;
+   font-weight: bold;
+   margin-bottom: 5px;
+}
+
+.enter{
+    display: block; 
+    background-color: rgb(218, 213, 213);
+    color: black;
+    border: none;
+    width: 300px;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;  
+    margin-bottom: 15px; 
+}
+
+.request{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    font-size: 12px;
+    border: none;
+    margin-right: 5px;
+}
+
+.schedule{
+    background-color:rgb(218, 213, 213) ;
+    color: black;
+    padding: 15px 20px;
+    font-size: 12px;
+    border: none;   
+}
